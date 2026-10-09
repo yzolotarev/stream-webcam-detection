@@ -1,0 +1,9 @@
+{
+  "video_id": "clip_2",
+  "index": 7,
+  "width": 854,
+  "height": 480,
+  "requested_s": 847.1979166666666,
+  "actual_s": 847.1999999999999,
+  "image_path": "experiment/reference-clip_2-07.jpg"
+}

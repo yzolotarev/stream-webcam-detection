@@ -1,0 +1,1161 @@
+{
+  "clip_1": {
+    "summary": {
+      "references": 12,
+      "present": 12,
+      "absent": 0,
+      "outcomes": {
+        "localized": 12
+      },
+      "mean_iou_when_returned": 0.9903755233451627,
+      "mean_iou_including_misses_as_zero": 0.9903755233451627,
+      "max_edge_error_px": 2
+    },
+    "samples": [
+      {
+        "index": 0,
+        "actual_s": 13.446780113446781,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          115
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9776215421376712,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 4,
+        "actual_s": 120.98765432098766,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          116
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9861225990258249,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 8,
+        "actual_s": 228.52852852852854,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946236559139785,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 12,
+        "actual_s": 336.06940273606943,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946236559139785,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 16,
+        "actual_s": 443.6102769436103,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          116
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9861225990258249,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 20,
+        "actual_s": 551.1177844511178,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          116
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9861225990258249,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 24,
+        "actual_s": 658.6586586586587,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946236559139785,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 28,
+        "actual_s": 766.1995328661995,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946236559139785,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 32,
+        "actual_s": 873.7404070737405,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          116
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9861225990258249,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 36,
+        "actual_s": 981.2812812812813,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946236559139785,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 40,
+        "actual_s": 1088.8221554888223,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          187,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946524064171123,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 44,
+        "actual_s": 1196.3630296963631,
+        "reference_bbox_px": [
+          0,
+          0,
+          186,
+          117
+        ],
+        "predicted_bbox_px": [
+          0,
+          0,
+          185,
+          117
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9946236559139785,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      }
+    ]
+  },
+  "clip_2": {
+    "summary": {
+      "references": 14,
+      "present": 13,
+      "absent": 1,
+      "outcomes": {
+        "localized": 12,
+        "correct_abstention": 1,
+        "miss_or_abstention": 1
+      },
+      "mean_iou_when_returned": 0.9902734289167218,
+      "mean_iou_including_misses_as_zero": 0.9140985497692816,
+      "max_edge_error_px": 1
+    },
+    "samples": [
+      {
+        "index": 0,
+        "actual_s": 56.46666666666667,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 4,
+        "actual_s": 508.3333333333333,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 7,
+        "actual_s": 847.1999999999999,
+        "reference_bbox_px": null,
+        "predicted_bbox_px": null,
+        "status": "ambiguous",
+        "reason": "appearance_mismatch",
+        "outcome": "correct_abstention",
+        "iou": null,
+        "max_edge_error_px": null,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "medium"
+      },
+      {
+        "index": 8,
+        "actual_s": 960.1666666666666,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 12,
+        "actual_s": 1412.0,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 16,
+        "actual_s": 1863.8333333333333,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 20,
+        "actual_s": 2315.6666666666665,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          316,
+          147,
+          164
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9932432432432432,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 24,
+        "actual_s": 2767.5,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 1.0,
+        "max_edge_error_px": 0,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 28,
+        "actual_s": 3219.366666666667,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 32,
+        "actual_s": 3671.2,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": null,
+        "status": "ambiguous",
+        "reason": "weak_or_conflicting_borders",
+        "outcome": "miss_or_abstention",
+        "iou": null,
+        "max_edge_error_px": null,
+        "reference_uncertainty_px": 6,
+        "reference_confidence": "medium"
+      },
+      {
+        "index": 36,
+        "actual_s": 4123.033333333333,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          316,
+          147,
+          164
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9932432432432432,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 40,
+        "actual_s": 4574.866666666667,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          316,
+          147,
+          164
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9932432432432432,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 44,
+        "actual_s": 5026.7,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          317,
+          147,
+          163
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9871868820039552,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 47,
+        "actual_s": 5365.6,
+        "reference_bbox_px": [
+          706,
+          316,
+          148,
+          164
+        ],
+        "predicted_bbox_px": [
+          707,
+          316,
+          147,
+          164
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9932432432432432,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      }
+    ]
+  },
+  "clip_3": {
+    "summary": {
+      "references": 24,
+      "present": 22,
+      "absent": 2,
+      "outcomes": {
+        "localized": 21,
+        "miss_or_abstention": 1,
+        "correct_abstention": 2
+      },
+      "mean_iou_when_returned": 0.9937950301332692,
+      "mean_iou_including_misses_as_zero": 0.948622528763575,
+      "max_edge_error_px": 2
+    },
+    "samples": [
+      {
+        "index": 0,
+        "actual_s": 12.1,
+        "reference_bbox_px": [
+          0,
+          445,
+          273,
+          275
+        ],
+        "predicted_bbox_px": [
+          0,
+          444,
+          272,
+          276
+        ],
+        "status": "detected",
+        "reason": "relocalized_borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9927402550864666,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 4,
+        "actual_s": 108.96666666666667,
+        "reference_bbox_px": [
+          0,
+          445,
+          273,
+          275
+        ],
+        "predicted_bbox_px": [
+          0,
+          444,
+          272,
+          276
+        ],
+        "status": "detected",
+        "reason": "relocalized_borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9927402550864666,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 6,
+        "actual_s": 157.4,
+        "reference_bbox_px": [
+          0,
+          460,
+          243,
+          260
+        ],
+        "predicted_bbox_px": null,
+        "status": "ambiguous",
+        "reason": "appearance_mismatch",
+        "outcome": "miss_or_abstention",
+        "iou": null,
+        "max_edge_error_px": null,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "medium"
+      },
+      {
+        "index": 7,
+        "actual_s": 181.63333333333333,
+        "reference_bbox_px": null,
+        "predicted_bbox_px": null,
+        "status": "ambiguous",
+        "reason": "appearance_mismatch",
+        "outcome": "correct_abstention",
+        "iou": null,
+        "max_edge_error_px": null,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 8,
+        "actual_s": 205.83333333333334,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 12,
+        "actual_s": 302.73333333333335,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 16,
+        "actual_s": 399.6,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 20,
+        "actual_s": 496.46666666666664,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 22,
+        "actual_s": 544.9,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 23,
+        "actual_s": 569.1,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 24,
+        "actual_s": 593.3333333333334,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 25,
+        "actual_s": 617.5333333333333,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 27,
+        "actual_s": 665.9666666666667,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 28,
+        "actual_s": 690.2,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 32,
+        "actual_s": 787.0666666666666,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 35,
+        "actual_s": 859.6999999999999,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 36,
+        "actual_s": 883.9333333333333,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 40,
+        "actual_s": 980.8,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 41,
+        "actual_s": 1005.0333333333333,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 43,
+        "actual_s": 1053.4666666666667,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 44,
+        "actual_s": 1077.6666666666667,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          418,
+          272,
+          302
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.9963369963369964,
+        "max_edge_error_px": 1,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 45,
+        "actual_s": 1101.9,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 46,
+        "actual_s": 1126.1,
+        "reference_bbox_px": [
+          0,
+          418,
+          273,
+          302
+        ],
+        "predicted_bbox_px": [
+          0,
+          420,
+          272,
+          300
+        ],
+        "status": "detected",
+        "reason": "borders_and_appearance",
+        "outcome": "localized",
+        "iou": 0.989738738083109,
+        "max_edge_error_px": 2,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      },
+      {
+        "index": 47,
+        "actual_s": 1150.3333333333333,
+        "reference_bbox_px": null,
+        "predicted_bbox_px": null,
+        "status": "not_detected",
+        "reason": "insufficient_border_evidence",
+        "outcome": "correct_abstention",
+        "iou": null,
+        "max_edge_error_px": null,
+        "reference_uncertainty_px": 3,
+        "reference_confidence": "high"
+      }
+    ]
+  }
+}

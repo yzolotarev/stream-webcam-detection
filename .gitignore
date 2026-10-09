@@ -1,0 +1,16 @@
+# Source videos: third-party content, never redistributed or referenced here.
+# Supply your own clips (see experiment/clips.json) to re-run the experiment.
+*.mp4
+*.webm
+*.mkv
+
+# Local environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Generated frames and reports: they embed third-party video frames, so they are
+# built locally and deliberately not published. Numbers live in the JSON files.
+experiment/*.jpg
+experiment/report.html
+experiment/panel-report.html

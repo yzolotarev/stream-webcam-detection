@@ -1,0 +1,8 @@
+{
+  "note": "Local clip manifest. Supply your own footage as <file> next to the project root. Clip ids are opaque labels; no source URL, title or uploader is recorded in this repository.",
+  "clips": [
+    { "id": "clip_1", "file": "clip_1.mp4" },
+    { "id": "clip_2", "file": "clip_2.mp4" },
+    { "id": "clip_3", "file": "clip_3.mp4" }
+  ]
+}

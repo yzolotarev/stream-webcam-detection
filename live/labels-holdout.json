@@ -1,0 +1,350 @@
+{
+ "_note": "Face centres, normalised x,y. cams = live webcams that must be shown; not_cams = faces that must not be inside any output crop (static pictures, people in the watched video); optional = a tiny streamer cam inside a call. Labelled visually by an AI agent on 2026-10-08, not by a human annotator. Held-out set: labelled before the detector was run on it.",
+ "moments": {
+  "src_13/m0": {
+   "cams": [
+    [
+     0.585,
+     0.83
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_13/m1": {
+   "cams": [
+    [
+     0.585,
+     0.85
+    ]
+   ],
+   "not_cams": [
+    [
+     0.755,
+     0.11
+    ],
+    [
+     0.64,
+     0.28
+    ]
+   ],
+   "optional": []
+  },
+  "src_13/m2": {
+   "cams": [
+    [
+     0.585,
+     0.83
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_14/m0": {
+   "cams": [
+    [
+     0.145,
+     0.82
+    ]
+   ],
+   "not_cams": [
+    [
+     0.86,
+     0.24
+    ]
+   ],
+   "optional": []
+  },
+  "src_14/m1": {
+   "cams": [
+    [
+     0.125,
+     0.785
+    ]
+   ],
+   "not_cams": [
+    [
+     0.545,
+     0.155
+    ]
+   ],
+   "optional": []
+  },
+  "src_14/m2": {
+   "cams": [
+    [
+     0.135,
+     0.815
+    ]
+   ],
+   "not_cams": [
+    [
+     0.825,
+     0.44
+    ],
+    [
+     0.88,
+     0.435
+    ]
+   ],
+   "optional": []
+  },
+  "src_15/m0": {
+   "cams": [
+    [
+     0.15,
+     0.81
+    ]
+   ],
+   "not_cams": [
+    [
+     0.885,
+     0.205
+    ],
+    [
+     0.49,
+     0.315
+    ]
+   ],
+   "optional": []
+  },
+  "src_15/m1": {
+   "cams": [
+    [
+     0.15,
+     0.8
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_15/m2": {
+   "cams": [
+    [
+     0.15,
+     0.8
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_16/m0": {
+   "cams": [
+    [
+     0.5,
+     0.805
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_16/m1": {
+   "cams": [
+    [
+     0.5,
+     0.795
+    ]
+   ],
+   "not_cams": [
+    [
+     0.755,
+     0.205
+    ]
+   ],
+   "optional": []
+  },
+  "src_16/m2": {
+   "cams": [],
+   "not_cams": [
+    [
+     0.735,
+     0.235
+    ]
+   ],
+   "optional": []
+  },
+  "src_08/m0": {
+   "cams": [
+    [
+     0.14,
+     0.875
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_08/m1": {
+   "cams": [
+    [
+     0.16,
+     0.865
+    ]
+   ],
+   "not_cams": [
+    [
+     0.855,
+     0.555
+    ],
+    [
+     0.905,
+     0.53
+    ]
+   ],
+   "optional": []
+  },
+  "src_08/m2": {
+   "cams": [
+    [
+     0.14,
+     0.875
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_17/m0": {
+   "cams": [
+    [
+     0.19,
+     0.835
+    ]
+   ],
+   "not_cams": [
+    [
+     0.85,
+     0.405
+    ],
+    [
+     0.61,
+     0.205
+    ],
+    [
+     0.725,
+     0.065
+    ],
+    [
+     0.82,
+     0.41
+    ]
+   ],
+   "optional": []
+  },
+  "src_17/m1": {
+   "cams": [
+    [
+     0.185,
+     0.82
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_17/m2": {
+   "cams": [
+    [
+     0.185,
+     0.82
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  },
+  "src_18/m0": {
+   "cams": [
+    [
+     0.565,
+     0.805
+    ]
+   ],
+   "not_cams": [
+    [
+     0.88,
+     0.135
+    ]
+   ],
+   "optional": []
+  },
+  "src_18/m1": {
+   "cams": [
+    [
+     0.58,
+     0.79
+    ]
+   ],
+   "not_cams": [
+    [
+     0.72,
+     0.38
+    ]
+   ],
+   "optional": []
+  },
+  "src_18/m2": {
+   "cams": [
+    [
+     0.575,
+     0.79
+    ]
+   ],
+   "not_cams": [
+    [
+     0.73,
+     0.355
+    ],
+    [
+     0.89,
+     0.135
+    ]
+   ],
+   "optional": []
+  },
+  "src_19/m0": {
+   "cams": [
+    [
+     0.145,
+     0.845
+    ]
+   ],
+   "not_cams": [
+    [
+     0.505,
+     0.095
+    ],
+    [
+     0.47,
+     0.275
+    ],
+    [
+     0.845,
+     0.32
+    ]
+   ],
+   "optional": []
+  },
+  "src_19/m1": {
+   "cams": [
+    [
+     0.14,
+     0.84
+    ]
+   ],
+   "not_cams": [
+    [
+     0.62,
+     0.155
+    ]
+   ],
+   "optional": []
+  },
+  "src_19/m2": {
+   "cams": [
+    [
+     0.155,
+     0.835
+    ]
+   ],
+   "not_cams": [],
+   "optional": []
+  }
+ }
+}

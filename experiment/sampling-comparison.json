@@ -1,0 +1,77 @@
+[
+  {
+    "id": "clip_1",
+    "comparison": [
+      {
+        "n": 3,
+        "haar": 3,
+        "yunet": 3
+      },
+      {
+        "n": 12,
+        "haar": 9,
+        "yunet": 11
+      },
+      {
+        "n": 24,
+        "haar": 21,
+        "yunet": 24
+      },
+      {
+        "n": 48,
+        "haar": 40,
+        "yunet": 48
+      }
+    ]
+  },
+  {
+    "id": "clip_2",
+    "comparison": [
+      {
+        "n": 3,
+        "haar": 2,
+        "yunet": 3
+      },
+      {
+        "n": 12,
+        "haar": 5,
+        "yunet": 12
+      },
+      {
+        "n": 24,
+        "haar": 13,
+        "yunet": 23
+      },
+      {
+        "n": 48,
+        "haar": 25,
+        "yunet": 47
+      }
+    ]
+  },
+  {
+    "id": "clip_3",
+    "comparison": [
+      {
+        "n": 3,
+        "haar": 2,
+        "yunet": 2
+      },
+      {
+        "n": 12,
+        "haar": 3,
+        "yunet": 9
+      },
+      {
+        "n": 24,
+        "haar": 14,
+        "yunet": 18
+      },
+      {
+        "n": 48,
+        "haar": 24,
+        "yunet": 34
+      }
+    ]
+  }
+]
